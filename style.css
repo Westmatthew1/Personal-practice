@@ -1,0 +1,44 @@
+* {
+  font-family: sans-serif;
+  font-style: normal;
+  
+  
+}
+
+#img {
+  height: 300%;
+  width: 380%;
+  margin-bottom: 80px;
+  margin-left: 25px;
+}
+
+h4 {
+  color: rgb(44, 13, 13);
+}
+
+.cool {
+  line-height: 30px;
+}
+
+h2 {
+  color: brown;
+}
+
+.color {
+  background-color: rgb(241, 234, 232);
+  line-height: 30px;
+  border-radius: 10px;
+  padding: 10px 0px 10px 10px;
+}
+
+.table {
+  border: 1px;
+  width: 100%;
+  text-align: justify;
+  line-height: 20px;
+  
+}
+
+.calories {
+  color: brown;
+}
